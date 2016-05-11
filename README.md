@@ -11,12 +11,12 @@ von Thomas Moritz
 
 4. Clone the reveal.js repository
    ```sh
-   $ git clone https://github.com/hakimel/reveal.js.git
+   $ git clone https://github.com/dresdenjs/boosting-productivity-with-webstorm.git
    ```
 
 5. Navigate to the reveal.js folder
    ```sh
-   $ cd reveal.js
+   $ cd boosting-productivity-with-webstorm
    ```
 
 6. Install dependencies
